@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Stanleeeeee
-- 👀 I’m interested in Fullstack Developer 
+- 👀 I’m interested in Fullstack Developing 
 - 🌱 I’m currently learning at Microverse
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me : ezeokestanley.ifeanyi@gmail.com
