@@ -16,14 +16,15 @@
 
 - 💬 Ask me about anything [here](https://github.com/stanleeeeee/stanleeeeee/issues)
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 
-| <a href="https://github.com/stanleeeeee/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=stanleeeeee&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/stanleeeeee/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stanleeeeee&layout=compact&theme=buefy&hide_border=true" /></a> |
+![Hello, I'm Stanley](https://user-images.githubusercontent.com/79658534/165603232-c6ba5f1b-4dc0-48be-8eb5-e360a5855d55.png)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stanleeeeee&show_icons=true&title_color=ff1493&icon_color=9457eb&text_color=0CFFD2&bg_color=05061D&border_color=ff1493)](https://github.com/anuraghazra/github-readme-stats)        [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Stanleeeeee&ring=ff1493&sideNums=ff1493&stroke=0CFFD2&border=ff1493&background=05061d&sideLabels=0cffd2&dates=9457eb&fire=9457eb&currStreakLabel=0cffd2&currStreakNum=0cffd2&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+<br>
+<br>
+
+| </a> | <a href="https://github.com/stanleeeeee/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stanleeeeee&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <br />
