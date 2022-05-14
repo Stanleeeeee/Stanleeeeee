@@ -6,13 +6,15 @@
 
 **About me**
 
--    I'm a student and mentor at Microverse
+- 🤠  I'm a student and mentor at Microverse
 
-- 💼 I am very good in pair programming (Driver / navigation method).
+- 💼 I am very good at pair programming (Driver / navigation method).
 
-- 📈 currently learning web development in a remote multicultural environment, 
+- 📈 currently learning Full stack web development in a remote multicultural environment, 
 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+- ❤️ I love writing JavaScript, and building fun experiments.
+
+- 💻 **I'm open to new opportunities**
 
 - 💬 Ask me about anything [here](https://github.com/stanleeeeee/stanleeeeee/issues)
 
